@@ -1,0 +1,23 @@
+
+Admin 123456789 1 Trotinete ///vasta.dur∆o.alheio 50.000000
+Eduardo 252179269 1 Trotinete ///vasta.dur∆o.alheio 50.000000
+Eduardo 252179269 1 Trotinete ///vasta.dur∆o.alheio 50.000000
+Eduardo 252179269 1 Trotinete ///vasta.dur∆o.alheio 50.000000
+Eduardo 252179269 1 Trotinete ///vasta.dur∆o.alheio 50.000000
+Eduardo 252179269 1 Trotinete ///vasta.dur∆o.alheio 50.000000
+Eduardo 252179269 1 Trotinete ///vasta.dur∆o.alheio 50.000000
+Eduardo 252179269 1 Trotinete ///vasta.dur∆o.alheio 50.000000
+Eduardo 252179269 1 Trotinete ///vasta.dur∆o.alheio 50.000000
+Eduardo 252179269 1 Trotinete ///vasta.dur∆o.alheio 50.000000
+Eduardo 252179269 1 Trotinete ///vasta.dur∆o.alheio 50.000000
+Eduardo 252179269 2 Fodasse ///vasta.dur∆o.alheio 50.000000
+Eduardo 252179269 1 Trotinete ///vasta.dur∆o.alheio 50.000000
+Eduardo 252179269 1 Trotinete ///vasta.dur∆o.alheio 50.000000
+Eduardo 252179269 1 Trotinete ///vasta.dur∆o.alheio 50.000000
+Eduardo 252179269 1 Trotinete ///sais.raios.crise 10.000000
+Eduardo 252179269 2 Trotinete ///sais.raios.crise 10.000000
+Eduardo 252179269 1 Trotinete ///tear.gelo.palitar 10.000000
+Eduardo 252179269 1 Trotinete ///sais.raios.crise 10.000000
+Eduardo 252179269 3 Trotinete ///tear.gelo.palitar 10.000000
+Eduardo 252179269 33 Bicicleta ///sais.raios.crise 15.000000
+Eduardo 252179269 33 Bicicleta ///sais.raios.crise 15.000000
